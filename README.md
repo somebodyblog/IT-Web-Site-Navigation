@@ -2,6 +2,7 @@
 
 网页版请访问：
 
+
 ## 通用搜索&ensp;&Omega;&ensp;Universal Search
 
 [Google](https://www.google.com.hk/)&ensp;&sect;&ensp;
@@ -54,38 +55,39 @@
 [Lycos](http://www.lycos.com/)&ensp;&sect;&ensp;
 [一把刀實用查詢](https://tw.18dao.net/)&ensp;&sect;&ensp;
 
+
 ## 网络安全天天看&ensp;&Omega;&ensp;Network Security Every Day
 
-(https://news.ycombinator.com/)[Hacker News]
-(https://xz.aliyun.com/)[先知社区]
-(https://www.bugbank.cn/live/)[漏洞银行直播间]
-(https://www.anquanke.com/)[安全客]
-(http://blogs.360.cn/)[360 核心安全技术博客]
-(https://bbs.pediy.com/)[看雪安全论坛]
-(https://www.zkaq.org/)[Track安全社区]
-(https://paper.seebug.org/)[Paper]
-(https://bugs.chromium.org/)[Monorail]
-(https://www.ihonker.org/)[中国红客联盟]
-(http://forum.cnsec.org/)[暗组]
-(https://www.77169.com/)[华盟网]
-(http://www.stuhack.com/)[学生技术联盟]
-(https://yq.aliyun.com/teams/119)[全球安全资讯精－阿里云]
-(https://www.sec-wiki.com/)[SecWiki]
-(https://nosec.org/)[NOSEC安全讯息平台]
-(https://www.secsilo.com/)[安全沙漏]
-(http://www.freebuf.com/)[FreeBuf]
-(https://www.secpulse.com/)[安全脉搏]
-(https://www.xctf.org.cn/)[XCTF社区]
-(https://www.secquan.org/)[SecQuan]
-(http://www.tiejiang.org/)[铁匠运维网]
-(http://www.nsoad.com/)[WLGF]
-(http://www.secbug.org/)[破晓团队]
-(http://www.52bug.cn/)[吾爱漏洞]
-(https://www.zhihu.com/topic/19554927/)[网络安全-知乎]
-(https://www.zhihu.com/topic/19561983/)[信息安全-知乎]
-(https://www.zhihu.com/topic/19827596/)[信息安全和密码学-知乎]
-(https://www.zhihu.com/people/evilcos/)[余弦-知乎]
-(https://www.zhihu.com/people/tombkeeper/)[tombkeeper-知乎]
+[Hacker News](https://news.ycombinator.com/)
+[先知社区](https://xz.aliyun.com/)
+[漏洞银行直播间](https://www.bugbank.cn/live/)
+[安全客](https://www.anquanke.com/)
+[360 核心安全技术博客](http://blogs.360.cn/)
+[看雪安全论坛](https://bbs.pediy.com/)
+[Track安全社区](https://www.zkaq.org/)
+[Paper](https://paper.seebug.org/)
+[Monorail](https://bugs.chromium.org/)
+[中国红客联盟](https://www.ihonker.org/)
+[暗组](http://forum.cnsec.org/)
+[华盟网](https://www.77169.com/)
+[学生技术联盟](http://www.stuhack.com/)
+[全球安全资讯精－阿里云](https://yq.aliyun.com/teams/119)
+[SecWiki](https://www.sec-wiki.com/)
+[NOSEC安全讯息平台](https://nosec.org/)
+[安全沙漏](https://www.secsilo.com/)
+[FreeBuf](http://www.freebuf.com/)
+[安全脉搏](https://www.secpulse.com/)
+[XCTF社区](https://www.xctf.org.cn/)
+[SecQuan](https://www.secquan.org/)
+[铁匠运维网](http://www.tiejiang.org/)
+[WLGF](http://www.nsoad.com/)
+[破晓团队](http://www.secbug.org/)
+[吾爱漏洞](http://www.52bug.cn/)
+[网络安全-知乎](https://www.zhihu.com/topic/19554927/)
+[信息安全-知乎](https://www.zhihu.com/topic/19561983/)
+[信息安全和密码学-知乎](https://www.zhihu.com/topic/19827596/)
+[余弦-知乎](https://www.zhihu.com/people/evilcos/)
+[tombkeeper-知乎](https://www.zhihu.com/people/tombkeeper/)
 
 ## 学术搜索&ensp;&Omega;&ensp;Academic Search
 
