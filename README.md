@@ -28,7 +28,7 @@
 [Dogpile](http://www.dogpile.com/)
 [HotBot](https://www.hotbot.com/)
 [LookSmart](http://www.looksmart.com/)
-[CodePlexArchive "CodePlex was Microsoft's free, open source project hosting site"](https://archive.codeplex.com/")
+[CodePlexArchive](https://archive.codeplex.com/" "CodePlex was Microsoft's free, open source project hosting site")
 [Wikimedia Commons](https://commons.wikimedia.org)
 [Wikivoyage](https://www.wikivoyage.org/)
 [Wiktionary](https://www.wiktionary.org/)
