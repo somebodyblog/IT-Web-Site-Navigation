@@ -4,7 +4,7 @@
 
 ## 通用搜索&ensp;&Omega;&ensp;Universal Search
 
-[Google](https://www.google.com.hk/)
+[Google](https://www.google.com.hk/)&ensp;&sect;&ensp;
 [Google高级搜索](https://www.google.com.hk/advanced_search)
 [百度](https://www.baidu.com/)
 [百度高级搜索](https://www.baidu.com/gaoji/advanced.html)
@@ -32,27 +32,27 @@
 [Wikimedia Commons](https://commons.wikimedia.org)
 [Wikivoyage](https://www.wikivoyage.org/)
 [Wiktionary](https://www.wiktionary.org/)
-(https://www.wikibooks.org/)[Wikibooks]
-(https://www.wikinews.org/)[Wikinews]
-(https://www.wikidata.org/)[Wikidata]
-(https://www.wikiversity.org/)[Wikiversity]
-(https://www.wikiquote.org/)[Wikiquote]
-(https://www.mediawiki.org/)[MediaWiki]
-(https://wikisource.org/)[Wikisource]
-(https://species.wikimedia.org/)[Wikispecies]
-(https://meta.wikimedia.org/)[a Wikimedia project coordination wiki]
-(https://www.semanticscholar.org/)[Semantic Scholar]
-(https://findicons.com/)[Free Icon]
-(https://librestock.com/)[Librestock Photos]
-(https://www.archive.org)[Internet Archive]
-(https://tineye.com)[TinEye]
-(https://www.similarweb.com/)[SimilarWeb]
-(https://www.wikihow.com)[wikiHow]
-(http://www.guao.hk/)[guao.hk]
-(http://www.searchnet.com/" title=")[Searchnet]
-(https://github.com/search)[GitHub Search]
-(http://www.lycos.com/)[Lycos]
-(https://tw.18dao.net/)[一把刀實用查詢]
+[Wikibooks](https://www.wikibooks.org/)
+[Wikinews](https://www.wikinews.org/)
+[Wikidata](https://www.wikidata.org/)
+[Wikiversity](https://www.wikiversity.org/)
+[Wikiquote](https://www.wikiquote.org/)
+[MediaWiki](https://www.mediawiki.org/)
+[Wikisource](https://wikisource.org/)
+[Wikispecies](https://species.wikimedia.org/)
+[a Wikimedia project coordination wiki](https://meta.wikimedia.org/)
+[Semantic Scholar](https://www.semanticscholar.org/)
+[Free Icon](https://findicons.com/)
+[Librestock Photos](https://librestock.com/)
+[Internet Archive](https://www.archive.org)
+[TinEye](https://tineye.com)
+[SimilarWeb](https://www.similarweb.com/)
+[wikiHow](https://www.wikihow.com)
+[guao.hk](http://www.guao.hk/)
+[Searchnet](http://www.searchnet.com/" title=")
+[GitHub Search](https://github.com/search)
+[Lycos](http://www.lycos.com/)
+[一把刀實用查詢](https://tw.18dao.net/)
 
 ## 网络安全天天看&ensp;&Omega;&ensp;Network Security Every Day
 
