@@ -49,7 +49,7 @@
 [SimilarWeb](https://www.similarweb.com/)&ensp;&sect;&ensp;
 [wikiHow](https://www.wikihow.com)&ensp;&sect;&ensp;
 [guao.hk](http://www.guao.hk/)&ensp;&sect;&ensp;
-[Searchnet](http://www.searchnet.com/" title=")&ensp;&sect;&ensp;
+[Searchnet](http://www.searchnet.com/")&ensp;&sect;&ensp;
 [GitHub Search](https://github.com/search)&ensp;&sect;&ensp;
 [Lycos](http://www.lycos.com/)&ensp;&sect;&ensp;
 [一把刀實用查詢](https://tw.18dao.net/)&ensp;&sect;&ensp;
