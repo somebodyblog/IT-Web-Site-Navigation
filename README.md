@@ -22,16 +22,16 @@
 [Wolfram](https://www.wolframalpha.com/)
 [知乎](https://www.zhihu.com/)
 [Quora](https://www.quora.com/)
-(http://www.sowang.com/)[搜网]
-(https://stackoverflow.com/)[StackOverflow]
-(https://www.ask.com/)[Ask]
-(http://www.dogpile.com/)[Dogpile]
-(https://www.hotbot.com/)[HotBot]
-(http://www.looksmart.com/)[LookSmart]
-(https://archive.codeplex.com/" title="CodePlex was Microsoft's free, open source project hosting site)[CodePlexArchive]
-(https://commons.wikimedia.org)[Wikimedia Commons]
-(https://www.wikivoyage.org/)[Wikivoyage]
-(https://www.wiktionary.org/)[Wiktionary]
+[搜网](http://www.sowang.com/)
+[StackOverflow](https://stackoverflow.com/)
+[Ask](https://www.ask.com/)
+[Dogpile](http://www.dogpile.com/)
+[HotBot](https://www.hotbot.com/)
+[LookSmart](http://www.looksmart.com/)
+[CodePlexArchive "CodePlex was Microsoft's free, open source project hosting site"](https://archive.codeplex.com/")
+[Wikimedia Commons](https://commons.wikimedia.org)
+[Wikivoyage](https://www.wikivoyage.org/)
+[Wiktionary](https://www.wiktionary.org/)
 (https://www.wikibooks.org/)[Wikibooks]
 (https://www.wikinews.org/)[Wikinews]
 (https://www.wikidata.org/)[Wikidata]
