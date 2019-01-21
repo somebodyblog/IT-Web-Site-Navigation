@@ -5,9 +5,9 @@
 ## 通用搜索&ensp;&Omega;&ensp;Universal Search
 
 [Google](https://www.google.com.hk/)
-    	(https://www.google.com.hk/advanced_search)[Google高级搜索]
-        (https://www.baidu.com/)[百度]
-    	(https://www.baidu.com/gaoji/advanced.html)[百度高级搜索]
+[Google高级搜索](https://www.google.com.hk/advanced_search)
+[百度](https://www.baidu.com/)
+[百度高级搜索](https://www.baidu.com/gaoji/advanced.html)
         (https://www.startpage.com/)[Startpage.com]
     	(https://duckduckgo.com/)[DuckDuckGo]
         (https://www.bing.com/?intlF=)[Bing]
