@@ -5,54 +5,54 @@
 ## 通用搜索&ensp;&Omega;&ensp;Universal Search
 
 [Google](https://www.google.com.hk/)&ensp;&sect;&ensp;
-[Google高级搜索](https://www.google.com.hk/advanced_search)
-[百度](https://www.baidu.com/)
-[百度高级搜索](https://www.baidu.com/gaoji/advanced.html)
-[Startpage.com](https://www.startpage.com/)
-[DuckDuckGo](https://duckduckgo.com/)
-[Bing](https://www.bing.com/?intlF=)
-[搜狗](https://www.sogou.com/)
-[搜狗高级搜索](https://www.sogou.com/advanced/advanced.html)
-[360搜索](https://www.so.com)
-[Yahoo](https://www.yahoo.com/)
-[Yahoo高级搜索](https://search.yahoo.com/web/advanced)
-[Yandex](https://yandex.com/)
-[Yandex高级搜索](https://www.yandex.com/search/advanced)
-[Wikipedia](https://www.wikipedia.org/)
-[Wolfram](https://www.wolframalpha.com/)
-[知乎](https://www.zhihu.com/)
-[Quora](https://www.quora.com/)
-[搜网](http://www.sowang.com/)
-[StackOverflow](https://stackoverflow.com/)
-[Ask](https://www.ask.com/)
-[Dogpile](http://www.dogpile.com/)
-[HotBot](https://www.hotbot.com/)
-[LookSmart](http://www.looksmart.com/)
-[CodePlexArchive](https://archive.codeplex.com/" "CodePlex was Microsoft's free, open source project hosting site")
-[Wikimedia Commons](https://commons.wikimedia.org)
-[Wikivoyage](https://www.wikivoyage.org/)
-[Wiktionary](https://www.wiktionary.org/)
-[Wikibooks](https://www.wikibooks.org/)
-[Wikinews](https://www.wikinews.org/)
-[Wikidata](https://www.wikidata.org/)
-[Wikiversity](https://www.wikiversity.org/)
-[Wikiquote](https://www.wikiquote.org/)
-[MediaWiki](https://www.mediawiki.org/)
-[Wikisource](https://wikisource.org/)
-[Wikispecies](https://species.wikimedia.org/)
-[a Wikimedia project coordination wiki](https://meta.wikimedia.org/)
-[Semantic Scholar](https://www.semanticscholar.org/)
-[Free Icon](https://findicons.com/)
-[Librestock Photos](https://librestock.com/)
-[Internet Archive](https://www.archive.org)
-[TinEye](https://tineye.com)
-[SimilarWeb](https://www.similarweb.com/)
-[wikiHow](https://www.wikihow.com)
-[guao.hk](http://www.guao.hk/)
-[Searchnet](http://www.searchnet.com/" title=")
-[GitHub Search](https://github.com/search)
-[Lycos](http://www.lycos.com/)
-[一把刀實用查詢](https://tw.18dao.net/)
+[Google高级搜索](https://www.google.com.hk/advanced_search)&ensp;&sect;&ensp;
+[百度](https://www.baidu.com/)&ensp;&sect;&ensp;
+[百度高级搜索](https://www.baidu.com/gaoji/advanced.html)&ensp;&sect;&ensp;
+[Startpage.com](https://www.startpage.com/)&ensp;&sect;&ensp;
+[DuckDuckGo](https://duckduckgo.com/)&ensp;&sect;&ensp;
+[Bing](https://www.bing.com/?intlF=)&ensp;&sect;&ensp;
+[搜狗](https://www.sogou.com/)&ensp;&sect;&ensp;
+[搜狗高级搜索](https://www.sogou.com/advanced/advanced.html)&ensp;&sect;&ensp;
+[360搜索](https://www.so.com)&ensp;&sect;&ensp;
+[Yahoo](https://www.yahoo.com/)&ensp;&sect;&ensp;
+[Yahoo高级搜索](https://search.yahoo.com/web/advanced)&ensp;&sect;&ensp;
+[Yandex](https://yandex.com/)&ensp;&sect;&ensp;
+[Yandex高级搜索](https://www.yandex.com/search/advanced)&ensp;&sect;&ensp;
+[Wikipedia](https://www.wikipedia.org/)&ensp;&sect;&ensp;
+[Wolfram](https://www.wolframalpha.com/)&ensp;&sect;&ensp;
+[知乎](https://www.zhihu.com/)&ensp;&sect;&ensp;
+[Quora](https://www.quora.com/)&ensp;&sect;&ensp;
+[搜网](http://www.sowang.com/)&ensp;&sect;&ensp;
+[StackOverflow](https://stackoverflow.com/)&ensp;&sect;&ensp;
+[Ask](https://www.ask.com/)&ensp;&sect;&ensp;
+[Dogpile](http://www.dogpile.com/)&ensp;&sect;&ensp;
+[HotBot](https://www.hotbot.com/)&ensp;&sect;&ensp;
+[LookSmart](http://www.looksmart.com/)&ensp;&sect;&ensp;
+[CodePlexArchive](https://archive.codeplex.com/" "CodePlex was Microsoft's free, open source project hosting site")&ensp;&sect;&ensp;
+[Wikimedia Commons](https://commons.wikimedia.org)&ensp;&sect;&ensp;
+[Wikivoyage](https://www.wikivoyage.org/)&ensp;&sect;&ensp;
+[Wiktionary](https://www.wiktionary.org/)&ensp;&sect;&ensp;
+[Wikibooks](https://www.wikibooks.org/)&ensp;&sect;&ensp;
+[Wikinews](https://www.wikinews.org/)&ensp;&sect;&ensp;
+[Wikidata](https://www.wikidata.org/)&ensp;&sect;&ensp;
+[Wikiversity](https://www.wikiversity.org/)&ensp;&sect;&ensp;
+[Wikiquote](https://www.wikiquote.org/)&ensp;&sect;&ensp;
+[MediaWiki](https://www.mediawiki.org/)&ensp;&sect;&ensp;
+[Wikisource](https://wikisource.org/)&ensp;&sect;&ensp;
+[Wikispecies](https://species.wikimedia.org/)&ensp;&sect;&ensp;
+[a Wikimedia project coordination wiki](https://meta.wikimedia.org/)&ensp;&sect;&ensp;
+[Semantic Scholar](https://www.semanticscholar.org/)&ensp;&sect;&ensp;
+[Free Icon](https://findicons.com/)&ensp;&sect;&ensp;
+[Librestock Photos](https://librestock.com/)&ensp;&sect;&ensp;
+[Internet Archive](https://www.archive.org)&ensp;&sect;&ensp;
+[TinEye](https://tineye.com)&ensp;&sect;&ensp;
+[SimilarWeb](https://www.similarweb.com/)&ensp;&sect;&ensp;
+[wikiHow](https://www.wikihow.com)&ensp;&sect;&ensp;
+[guao.hk](http://www.guao.hk/)&ensp;&sect;&ensp;
+[Searchnet](http://www.searchnet.com/" title=")&ensp;&sect;&ensp;
+[GitHub Search](https://github.com/search)&ensp;&sect;&ensp;
+[Lycos](http://www.lycos.com/)&ensp;&sect;&ensp;
+[一把刀實用查詢](https://tw.18dao.net/)&ensp;&sect;&ensp;
 
 ## 网络安全天天看&ensp;&Omega;&ensp;Network Security Every Day
 
