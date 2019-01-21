@@ -15,8 +15,8 @@
 
 [腾讯AI开放平台](http://ai.qq.com/)&ensp;&sect;&ensp;
 [百度AI开放平台](http://ai.baidu.com/)&ensp;&sect;&ensp;
-[DuerOS开放平台](https://dueros.baidu.com/open)
-[腾讯优图AI开放平台](https://youtu.qq.com)
+[DuerOS开放平台](https://dueros.baidu.com/open)&ensp;&sect;&ensp;
+[腾讯优图AI开放平台](https://youtu.qq.com)&ensp;&sect;&ensp;
 [讯飞开放平台](http://www.xfyun.cn/)&ensp;&sect;&ensp;
 [SKEye人工智能开放平台](https://www.sk-ai.com/)&ensp;&sect;&ensp;
 [人工智能开放创新平台](http://www.chinaopen.ai/)&ensp;&sect;&ensp;
