@@ -1,6 +1,6 @@
 # IT-Web-Site-Navigation
 
-网页版请访问：[导航狗](https://daohanggou.cn/)&ensp;&sect;&ensp;
+网页版请访问：[导航狗](https://daohanggou.cn/)
 
 
 ## SSL证书&ensp;&Omega;&ensp;SSL Certificate
