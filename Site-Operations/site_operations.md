@@ -220,3 +220,8 @@
 [多备份](http://www.dbfen.com/)&ensp;&sect;&ensp;
 [Mozy.com](https://mozy.com/)&ensp;&sect;&ensp;
 [Zetta](https://www.zetta.net/)&ensp;&sect;&ensp;
+
+
+## 图床&ensp;&Omega;&ensp;Picture Storage
+
+[ExtraImage](https://extraimage.net/)&ensp;&sect;&ensp;
