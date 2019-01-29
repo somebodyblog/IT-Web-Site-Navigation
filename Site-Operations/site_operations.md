@@ -225,3 +225,4 @@
 ## 图床&ensp;&Omega;&ensp;Picture Storage
 
 [ExtraImage](https://extraimage.net/)&ensp;&sect;&ensp;
+[微相册](http://photo.weibo.com/ "微博相册")&ensp;&sect;&ensp;

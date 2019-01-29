@@ -13,6 +13,7 @@
 [DuckDuckGo](https://duckduckgo.com/)&ensp;&sect;&ensp;
 [Bing](https://www.bing.com/?intlF=)&ensp;&sect;&ensp;
 [搜狗](https://www.sogou.com/)&ensp;&sect;&ensp;
+[搜狗英文](https://english.sogou.com/)&ensp;&sect;&ensp;
 [搜狗高级搜索](https://www.sogou.com/advanced/advanced.html)&ensp;&sect;&ensp;
 [360搜索](https://www.so.com)&ensp;&sect;&ensp;
 [Yahoo](https://www.yahoo.com/)&ensp;&sect;&ensp;
