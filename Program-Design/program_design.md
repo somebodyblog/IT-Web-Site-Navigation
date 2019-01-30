@@ -13,7 +13,7 @@
 
 ## 代码托管 & 版本控制&ensp;&Omega;&ensp;Git
 
-[openSUSE](https://www.opensuse.org/)&ensp;&sect;&ensp;
+[Git-Book](https://git-scm.com/book/zh/ "Git 使用手册")&ensp;&sect;&ensp;
 [GitHub](https://github.com/)&ensp;&sect;&ensp;
 [Coding](https://coding.net/)&ensp;&sect;&ensp;
 [OpenShift](https://www.openshift.com/)&ensp;&sect;&ensp;

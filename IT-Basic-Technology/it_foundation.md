@@ -96,6 +96,7 @@
 [优麒麟&银河麒麟社区版](https://www.ubuntukylin.com/)&ensp;&sect;&ensp;
 [凤凰系统Phoenix OS](http://www.phoenixos.com/)&ensp;&sect;&ensp;
 [DuerOS](https://dueros.baidu.com/)&ensp;&sect;&ensp;
+[openSUSE](https://www.opensuse.org/)&ensp;&sect;&ensp;
 
 ## BSD系统&ensp;&Omega;&ensp;BSD OS
 
