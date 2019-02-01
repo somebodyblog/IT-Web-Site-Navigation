@@ -20,6 +20,7 @@
 
 ## 个人博客&ensp;&Omega;&ensp;Personal Blog
 
+[鸟哥的Linux私房菜](http://linux.vbird.org/)&ensp;&sect;&ensp;
 [Daring Fireball](https://daringfireball.net/)&ensp;&sect;&ensp;
 [Marco.org](https://marco.org/)&ensp;&sect;&ensp;
 [Gityuan博客](http://gityuan.com/)&ensp;&sect;&ensp;
