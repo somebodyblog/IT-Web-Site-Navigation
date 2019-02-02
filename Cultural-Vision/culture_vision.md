@@ -41,6 +41,12 @@
 [扬子晚报](http://www.yangtse.com/)&ensp;&sect;&ensp;
 [光华日报](http://www.kwongwah.com.my/)&ensp;&sect;&ensp;
 [TOM.COM](http://www.tom.com/)&ensp;&sect;&ensp;
+[凤凰网](https://www.ifeng.com/)&ensp;&sect;&ensp;
+[大公网](http://www.takungpao.com/)&ensp;&sect;&ensp;
+[参考消息电子版](http://www.cankaoxiaoxi.com/)&ensp;&sect;&ensp;
+[参考消息网滚动新闻](http://www.cankaoxiaoxi.com/roll/)&ensp;&sect;&ensp;
+[澎湃新闻](https://www.thepaper.cn/)&ensp;&sect;&ensp;
+[联合早报网](http://www.zaobao.com/)&ensp;&sect;&ensp;
 
 
 ## 演讲&ensp;&Omega;&ensp;Speech
