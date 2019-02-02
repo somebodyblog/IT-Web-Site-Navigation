@@ -2,6 +2,12 @@
 
 网页版请访问：[导航狗](https://daohanggou.cn/)
 
+网址收录，错误更正等意见和建议请提交 [Issues](https://github.com/somebodyblog/IT-Web-Site-Navigation/issues), 或者发邮件到：
+
+Y29udGFjdHNAbWFpbC5kYW9oYW5nZ291Lndhbmc= 
+
+*(邮箱信息经过了Base64编码，请复制上述Base64代码在[这里](https://daohanggou.cn/tools/EncryptionAndDecryption/Base64EncodeAndDecode.html)解码)* 
+
 
 ## 通用搜索&ensp;&Omega;&ensp;Universal Search
 
@@ -210,13 +216,13 @@
 [QQ音乐搜索](https://y.qq.com/)&ensp;&sect;&ensp;
 [虾米音乐搜索](https://www.xiami.com/search)&ensp;&sect;&ensp;
 [hao123音乐搜索](http://music.hao123.com/)&ensp;&sect;&ensp;
-	
+​	
 
 ## 购物搜索&ensp;&Omega;&ensp;Shopping Search
 
 [淘宝搜索](https://s.taobao.com/search/)&ensp;&sect;&ensp;
 [京东商品搜索](search.jd.com/)&ensp;&sect;&ensp;
-	
+​	
 
 ## 娱乐&ensp;&Omega;&ensp;Enjoy
 
