@@ -1,8 +1,6 @@
 # IT-Web-Site-Navigation
 
-网页版请访问：[导航狗](https://daohanggou.cn/)
-
-网址收录，错误更正等意见和建议请提交 [Issues](https://github.com/somebodyblog/IT-Web-Site-Navigation/issues), 或者发邮件到：
+[![导航狗 DaoHangGou.cn](image/readme/HomePage-DaoHangGou-brightgreem.svg)](https://daohanggou.cn/)[![GitHub Issues](image/readme/Feedback-Issues-orange.svg)](https://github.com/somebodyblog/IT-Web-Site-Navigation/issues)
 
 Y29udGFjdHNAbWFpbC5kYW9oYW5nZ291Lndhbmc= 
 
