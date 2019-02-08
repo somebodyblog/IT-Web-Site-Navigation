@@ -1,5 +1,7 @@
 # IT-Web-Site-Navigation
-[![Build Status]][Travis CI]
+
+[![Build Status]][Travis CI] [![Python version]][PyPI] [![Release version]][Release url] [![PyPi version]][PyPI] [![AUR version]][AUR]
+
 网页版请访问：[导航狗](https://daohanggou.cn/)
 
 网址收录，错误更正等意见和建议请提交 [Issues](https://github.com/somebodyblog/IT-Web-Site-Navigation/issues), 或者发邮件到：
