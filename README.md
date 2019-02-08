@@ -1,10 +1,5 @@
 # IT-Web-Site-Navigation
 
-[![Build Status]][Travis CI] [![Python version]][PyPI] [![Release version]][Release url] [![PyPi version]][PyPI] [![[![Build Status](https://travis-ci.org/tuna/tunasync.svg?branch=dev)](https://travis-ci.org/tuna/tunasync)
-[![Coverage Status](https://coveralls.io/repos/github/tuna/tunasync/badge.svg?branch=dev)](https://coveralls.io/github/tuna/tunasync?branch=dev)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-![GPLv3](https://img.shields.io/badge/license-GPLv3-blue.svg)
-
 网页版请访问：[导航狗](https://daohanggou.cn/)
 
 网址收录，错误更正等意见和建议请提交 [Issues](https://github.com/somebodyblog/IT-Web-Site-Navigation/issues), 或者发邮件到：
