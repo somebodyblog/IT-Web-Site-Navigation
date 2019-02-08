@@ -61,6 +61,7 @@
 [中国科学技术大学开源镜像站](http://mirrors.ustc.edu.cn/)&ensp;&sect;&ensp;
 [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)&ensp;&sect;&ensp;
 [上海交通大学开源镜像站](http://ftp.sjtu.edu.cn/)&ensp;&sect;&ensp;
+[上海大学开源镜像站](https://mirrors.shu.edu.cn/)&ensp;&sect;&ensp;
 [网易开源镜像站](http://mirrors.163.com/)&ensp;&sect;&ensp;
 [浙江大学开源镜像站](http://mirrors.zju.edu.cn/)&ensp;&sect;&ensp;
 [东北大学开源镜像站](http://mirror.neu.edu.cn/)&ensp;&sect;&ensp;
