@@ -2,10 +2,6 @@
 
 [![导航狗 DaoHangGou.cn](image/readme/HomePage-DaoHangGou-brightgreem.svg)](https://daohanggou.cn/)    [![GitHub Issues](image/readme/Feedback-Issues-orange.svg)](https://github.com/somebodyblog/IT-Web-Site-Navigation/issues)   [![Contact Me](image/readme/Contact-E--mail-yellow.svg)](https://github.com/somebodyblog)
 
-Y29udGFjdHNAbWFpbC5kYW9oYW5nZ291Lndhbmc= 
-
-*(邮箱信息经过了Base64编码，请复制上述Base64代码在[这里](https://daohanggou.cn/tools/EncryptionAndDecryption/Base64EncodeAndDecode.html)解码)* 
-
 
 ## 通用搜索&ensp;&Omega;&ensp;Universal Search
 
