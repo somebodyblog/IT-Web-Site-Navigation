@@ -67,6 +67,16 @@
 [东北大学开源镜像站](http://mirror.neu.edu.cn/)&ensp;&sect;&ensp;
 [Debian全球镜像站](http://www.debian.org/mirror/list)&ensp;&sect;&ensp;
 [BackBox Linux镜像站](http://mirror3.mirror.garr.it/mirrors/backbox/)&ensp;&sect;&ensp;
+[大连理工大学开源镜像站](http://mirror.dlut.edu.cn/)&ensp;&sect;&ensp;
+[郑州大学开源镜像站](https://mirrors.zzu.edu.cn/)&ensp;&sect;&ensp;
+[东软信息学院开源镜像站](http://mirrors.neusoft.edu.cn/)&ensp;&sect;&ensp;
+[重庆大学开源软件镜像站](http://mirrors.cqu.edu.cn/)&ensp;&sect;&ensp;
+[北京交通大学自由与开源软件镜像站](https://mirror.bjtu.edu.cn/)&ensp;&sect;&ensp;
+[华中科技大学开源镜像站](http://mirrors.hust.edu.cn/)&ensp;&sect;&ensp;
+[北京理工大学开源软件镜像服务](http://mirror.bit.edu.cn/)&ensp;&sect;&ensp;
+[兰州大学开源社区镜像站](http://mirror.lzu.edu.cn/)&ensp;&sect;&ensp;
+[华为开源镜像站](https://mirrors.huaweicloud.com/)&ensp;&sect;&ensp;
+[首都在线开源镜像站](http://mirrors.yun-idc.com/)&ensp;&sect;&ensp;
 
 ## 资讯&ensp;&Omega;&ensp;Information
 
