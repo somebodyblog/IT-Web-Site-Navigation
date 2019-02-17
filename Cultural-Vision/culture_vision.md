@@ -16,6 +16,11 @@
 [Udemy](https://www.udemy.com/)&ensp;&sect;&ensp;
 
 
+## 阅读&ensp;&Omega;&ensp;Read
+
+[腾讯大家](http://dajia.qq.com/)&ensp;&sect;&ensp;
+
+
 ## 大学校报&ensp;&Omega;&ensp;University Newspaper
 
 [The Minnesota Daily](http://www.mndaily.com/)&ensp;&sect;&ensp;
