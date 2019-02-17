@@ -13,6 +13,7 @@
 [MOOC学院](https://mooc.guokr.com/)&ensp;&sect;&ensp;
 [学堂在线](http://www.xuetangx.com/)&ensp;&sect;&ensp;
 [慕课网](http://www.imooc.com/)&ensp;&sect;&ensp;
+[Udemy](https://www.udemy.com/)&ensp;&sect;&ensp;
 
 
 ## 大学校报&ensp;&Omega;&ensp;University Newspaper
