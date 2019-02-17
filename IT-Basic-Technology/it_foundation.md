@@ -259,3 +259,5 @@
 [Shields.io](https://shields.io/ "可以制作用于 Git 仓库中 REAME 文件的图片标签")&ensp;&sect;&ensp;
 [Simple Icons](https://simpleicons.org/)&ensp;&sect;&ensp;
 [寻图标](https://icon.52112.com/)&ensp;&sect;&ensp;
+[Vector Logo Zone](https://www.vectorlogo.zone/ "SVG 格式的 LOGO 搜索")&ensp;&sect;&ensp;
+[IcoMoon](https://icomoon.io/ "SVG 格式图标制作")&ensp;&sect;&ensp;
