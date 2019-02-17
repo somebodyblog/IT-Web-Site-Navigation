@@ -243,3 +243,16 @@
 
 [SlideGur.com](http://slidegur.com/)&ensp;&sect;&ensp;
 [云铺子](http://www.yunpuzi.net/)&ensp;&sect;&ensp;
+
+## 下载工具&ensp;&Omega;&ensp;Download Tools
+
+[迅雷](https://www.xunlei.com/)&ensp;&sect;&ensp;
+[Internet Download Manager (IDM)](https://www.internetdownloadmanager.com/)&ensp;&sect;&ensp;
+[qBittorrent](https://www.qbittorrent.org/)&ensp;&sect;&ensp;
+[μTorrent (uTorrent)](https://www.utorrent.com/)&ensp;&sect;&ensp;
+[rTorrent](https://rakshasa.github.io/rtorrent/)&ensp;&sect;&ensp;
+
+## 图标&ensp;&Omega;&ensp;Icon
+[Shields.io](https://shields.io/ "可以制作用于 Git 仓库中 REAME 文件的图片标签")&ensp;&sect;&ensp;
+[Simple Icons](https://simpleicons.org/)&ensp;&sect;&ensp;
+[寻图标](https://icon.52112.com/)&ensp;&sect;&ensp;
