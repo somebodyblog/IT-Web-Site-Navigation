@@ -219,6 +219,7 @@
 ## API
 
 [Hitokoto_一言](https://hitokoto.cn/)&ensp;&sect;&ensp;
+[GitHub Developer](https://developer.github.com/)&ensp;&sect;&ensp;
 
 
 ## 数据备份&ensp;&Omega;&ensp;Data Backup
