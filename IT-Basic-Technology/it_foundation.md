@@ -109,6 +109,9 @@
 [凤凰系统Phoenix OS](http://www.phoenixos.com/)&ensp;&sect;&ensp;
 [DuerOS](https://dueros.baidu.com/)&ensp;&sect;&ensp;
 [openSUSE](https://www.opensuse.org/)&ensp;&sect;&ensp;
+[Linux Mint](https://www.linuxmint.com/)&ensp;&sect;&ensp;
+[Linux Manjaro](https://manjaro.org/)&ensp;&sect;&ensp;
+[Manjaro Linux 乐于简单](https://www.manjaro.cn/ "Manjaro Linux 非官方中文站")&ensp;&sect;&ensp;
 
 ## BSD系统&ensp;&Omega;&ensp;BSD OS
 
