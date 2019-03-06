@@ -40,7 +40,7 @@ XXXXX
 git add --all
 git commit -m "update"
 git push origin
-
+ECHO 代码推送成功
 //goto fanhui
 :Uninstall
 @ echo.
