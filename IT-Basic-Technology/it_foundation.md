@@ -10,6 +10,9 @@
 [Notepad++](https://notepad-plus-plus.org/)&ensp;&sect;&ensp;
 [Notepad2](http://www.flos-freeware.ch/notepad2.html)&ensp;&sect;&ensp;
 [EditPlus](https://www.editplus.com/)&ensp;&sect;&ensp;
+[vim](https://www.vim.org/)&ensp;&sect;&ensp;
+[nano](https://www.nano-editor.org/)&ensp;&sect;&ensp;
+[Emacs](https://www.gnu.org/software/emacs/)&ensp;&sect;&ensp;
 
 
 ## 绘图&ensp;&Omega;&ensp;Draw
