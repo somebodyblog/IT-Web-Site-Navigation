@@ -3,6 +3,15 @@
 网页版请访问：[导航狗](https://daohanggou.cn/)
 
 
+## 文本编辑器&ensp;&Omega;&ensp;Text Editor
+
+[Atom](https://atom.io/)&ensp;&sect;&ensp;
+[Sublime Text 3](http://www.sublimetext.com/3)&ensp;&sect;&ensp;
+[Notepad++](https://notepad-plus-plus.org/)&ensp;&sect;&ensp;
+[Notepad2](http://www.flos-freeware.ch/notepad2.html)&ensp;&sect;&ensp;
+[EditPlus](https://www.editplus.com/)&ensp;&sect;&ensp;
+
+
 ## 绘图&ensp;&Omega;&ensp;Draw
 
 [ProcessOn](https://www.processon.com/ "可以绘制网络拓扑图，思维导图等")&ensp;&sect;&ensp;
