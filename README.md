@@ -61,6 +61,8 @@
 
 ## 网络安全天天看&ensp;&Omega;&ensp;Network Security Every Day
 
+[腾讯安全玄武实验室](https://xlab.tencent.com/)&ensp;&sect;&ensp;
+[Sec.Today](https://sec.today/pulses/)&ensp;&sect;&ensp;
 [Hacker News](https://news.ycombinator.com/)&ensp;&sect;&ensp;
 [先知社区](https://xz.aliyun.com/)&ensp;&sect;&ensp;
 [漏洞银行直播间](https://www.bugbank.cn/live/)&ensp;&sect;&ensp;
@@ -92,6 +94,15 @@
 [余弦-知乎](https://www.zhihu.com/people/evilcos/)&ensp;&sect;&ensp;
 [tombkeeper-知乎](https://www.zhihu.com/people/tombkeeper/)&ensp;&sect;&ensp;
 [游侠安全网](http://www.youxia.org/)&ensp;&sect;&ensp;
+
+
+## 技术社区&ensp;&Omega;&ensp;Technology Community
+[博客园](https://www.cnblogs.com/)&ensp;&sect;&ensp;
+[SegmentFault](https://segmentfault.com/)&ensp;&sect;&ensp;
+[CSDN](https://www.csdn.net/)&ensp;&sect;&ensp;
+[开源中国](https://www.oschina.net/)&ensp;&sect;&ensp;
+[掘金](https://juejin.im/)&ensp;&sect;&ensp;
+
 
 ## 学术搜索&ensp;&Omega;&ensp;Academic Search
 
@@ -213,13 +224,13 @@
 [QQ音乐搜索](https://y.qq.com/)&ensp;&sect;&ensp;
 [虾米音乐搜索](https://www.xiami.com/search)&ensp;&sect;&ensp;
 [hao123音乐搜索](http://music.hao123.com/)&ensp;&sect;&ensp;
-​	
+​
 
 ## 购物搜索&ensp;&Omega;&ensp;Shopping Search
 
 [淘宝搜索](https://s.taobao.com/search/)&ensp;&sect;&ensp;
 [京东商品搜索](search.jd.com/)&ensp;&sect;&ensp;
-​	
+​
 
 ## 娱乐&ensp;&Omega;&ensp;Enjoy
 
